@@ -1,1 +1,5 @@
-See https://unofficialsf.com/flow-masterclass-create-declarative-flow-actions-with-metaprogramming/
+
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
